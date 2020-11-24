@@ -1,5 +1,5 @@
 # General Assembly Projects
-## By Gladys Pao
+### By: Gladys Pao
 This repository includes all projects that I have worked on during my Data Science Immersive Course at General Assembly.
 Each project folder contains a separate README.md, which serves as a primer for how I approached each project.
 
@@ -29,7 +29,7 @@ Ultimately, we aim to provide a model that can accurately predict whether an are
 
 ### Project 5: Computer Vision Capstone Project
 #### Skin Lesion Classification and Diagnosis
-<b>Link to my capstone project's repository: https://github.com/datawithgladys/skin_lesion_diagnosis_classification</b>
+Link to my capstone project's repository: https://github.com/datawithgladys/skin_lesion_diagnosis_classification
 
 In this project, we aim to improve the diagnostic rate of skin cancer through the classification of skin lesions for dermatologists working at hospitals or skin cancer clinics in Singapore, who will need experience or expertise in diagnosing skin cancer before they can accurately identify and diagnose lesions upon visual and dermoscopy inspection. This will be done through the classification of skin lesion dermoscopy images, in which we will predict two important tasks through the usage of Convolutional Neural Network models:
 (1) a specific skin lesion diagnosis, and
