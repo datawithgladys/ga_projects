@@ -1,7 +1,7 @@
 # General Assembly Projects
 ## By Gladys Pao
 This repository includes all projects that I have worked on during my Data Science Immersive Course at General Assembly.
-Each project folder contains a separate README.md, which serves as a primer for how I approached the project and its subsequent outcomes.
+Each project folder contains a separate README.md, which serves as a primer for how I approached each project.
 
 ## List of Projects
 
