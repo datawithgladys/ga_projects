@@ -31,9 +31,9 @@ Ultimately, we aim to provide a model that can accurately predict whether an are
 #### Skin Lesion Classification and Diagnosis
 Link to my capstone project's repository: https://github.com/datawithgladys/skin_lesion_diagnosis_classification
 
-In this project, we aim to improve the diagnostic rate of skin cancer through the classification of skin lesions for dermatologists working at hospitals or skin cancer clinics in Singapore, who will need experience or expertise in diagnosing skin cancer before they can accurately identify and diagnose lesions upon visual and dermoscopy inspection. This will be done through the classification of skin lesion dermoscopy images, in which we will predict two important tasks through the usage of Convolutional Neural Network models:
-(1) a specific skin lesion diagnosis, and
-(2) whether the lesion is malignant, benign, or pre-cancerous.
+In this project, we aim to improve the diagnostic rate of skin cancer through the classification of skin lesions for dermatologists working at hospitals or skin cancer clinics in Singapore, who will need experience or expertise in diagnosing skin cancer before they can accurately identify and diagnose lesions upon visual and dermoscopy inspection. This will be done through the classification of skin lesion dermoscopy images, in which we will predict two important tasks through the usage of Convolutional Neural Network models:<br>
+(1) a specific skin lesion diagnosis, and<br>
+(2) whether the lesion is malignant, benign, or pre-cancerous.<br>
 
 The model will be evaluated based on its accuracy, followed by its recall rate since we are looking to minimise false negatives. Ultimately, we aim to get as close to a real evaluation of a dermatologist as possible: predicting the type of skin lesion; and whether the lesion is malignant, pre-cancerous or benign from dermoscopy images. With our models, we hope to aid dermatologists in their decision-making process of diagnosing skin lesions, hence allowing them to improve their diagnostic accuracy and come up with appropriate treatments for patients with skin lesions and/or cancers.
 
